@@ -1,4 +1,4 @@
-# Investment Management
+# FarmInvest
 Repo for MWA group project
 
 ## About
@@ -43,5 +43,9 @@ In the real world, this is a terrible way to store credentials. Since this is ju
 
 ## Screenshots
 
-
+![](https://github.com/dawithw/mwaproject/blob/master/ui/home.png?raw=true)
+![](https://github.com/dawithw/mwaproject/blob/master/ui/signup.png?raw=true)
+![](https://github.com/dawithw/mwaproject/blob/master/ui/signin.png?raw=true)
+![](https://github.com/dawithw/mwaproject/blob/master/ui/dashboard.png?raw=true)
+![](https://github.com/dawithw/mwaproject/blob/master/ui/browse.png?raw=true)
 
