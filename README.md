@@ -1,4 +1,4 @@
-# FarmInvest
+# Farm Invest
 Repo for MWA group project
 
 ## About
